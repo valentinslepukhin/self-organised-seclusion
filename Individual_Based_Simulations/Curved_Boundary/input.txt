@@ -1,0 +1,7 @@
+50000000 # steps
+1000 # Output Frequency
+1500 # N initial. Done st it's almost jammed but still gas initially.
+50. # Boxlx
+100. # Boxly
+0.5 #grid size (dx=dy)
+0.000005# Timestep changed to a more reasonable physical parameter
